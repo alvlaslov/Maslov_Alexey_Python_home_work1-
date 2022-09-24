@@ -19,8 +19,7 @@
 # Second mrthod
 
 list = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
-number = input(
-    'Input a number from 1 to 7 corresponding to the day of the week: ')
+number = input('Input a number from 1 to 7 corresponding to the day of the week: ')
 count = 0
 while count == 0:
     if number.isdigit() == True and int(number) <= 7 and not int(number) <= 0:
