@@ -16,7 +16,7 @@
 # else:
 #     print(f'The number "{number}" does not match the condition. Please, repeat the input.')
 
-# Second mrthod
+# Second method
 
 list = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 number = input('Input a number from 1 to 7 corresponding to the day of the week: ')
